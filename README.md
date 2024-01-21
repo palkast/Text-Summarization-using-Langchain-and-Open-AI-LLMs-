@@ -40,7 +40,7 @@ chain = load_summarize_chain(
 )
 6.Ai understands now this is a chain , waiting for a doc then call llm and get llm response.<br />
 
-**Please check the summarized output from Mayoclinic.pdf :**<br />
+**Please check the summarized output from Mayo.pdf :**<br />
 
 [![Mayo-Clinic-Screenshot-2024-01-21-123904.png](https://i.postimg.cc/kMy1f93s/Mayo-Clinic-Screenshot-2024-01-21-123904.png)](https://postimg.cc/NL5kj302)
 
