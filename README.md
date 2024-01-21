@@ -5,7 +5,7 @@ This project is created to show different techniques of text summarization from 
 
 # A)Basic Prompt Summarization
 
-1.Try to import open AI langchain chat models.
+1.Try to import open AI langchain chat models.<br />
 2.There are 3 kinds of messages that we would lik to define. Try to define chat messages.
 *AI message* - response from llm models 
 *Human message* - is message from human input 
