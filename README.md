@@ -1,6 +1,7 @@
 # Text-Summarization-using-Langchain-and-Open-AI-LLMs-
 This project is created to show different techniques of text summarization from pdf/text using Open AI LLM models.<br />
-In this project I have tried to read a *pdf* from **Mayo Clinic(US No.1 Hospital and Research)** guidelines and summarized it.<br />
+In this project I have tried to read a *pdf* from **Mayo Clinic(US No.1 Hospital and Research)** guidelines and summarized<br />
+it using StuffDocumentChain technique of Text Summarization .<br />
 
 # Techniques :
 
@@ -25,7 +26,7 @@ In this project I have tried to read a *pdf* from **Mayo Clinic(US No.1 Hospital
 # C)StuffDocumentChain Text Summarization
 
 1.Get the entire doc give it to llm to summarize.<br />
-2.Read pdf using pypdf which creates a pdf object reader.<br />
+2.Read Mayo.pdf using pypdf which creates a pdf object reader.<br />
 3.Enumerte through every page and extract text in text.<br /> 
 4.Give entire text to llm model.<br />
 5.Convert text to documents.<br />
