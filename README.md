@@ -1,6 +1,6 @@
 # Text-Summarization-using-Langchain-and-Open-AI-LLMs-
 This project is created to show different techniques of text summarization from pdf/text using Open AI LLM models.<br />
-In this project I have tried to read a pdf from Mayo Clinic(*US No.1 Hospital and Research) guidelines and summarized it.<br />
+In this project I have tried to read a pdf from Mayo Clinic(* US No.1 Hospital and Research *) guidelines and summarized it.<br />
 
 # Techniques :
 
