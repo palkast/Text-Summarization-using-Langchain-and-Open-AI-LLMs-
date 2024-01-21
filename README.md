@@ -40,6 +40,10 @@ chain = load_summarize_chain(
 )
 6.Ai understands now this is a chain , waiting for a doc then call llm and get llm response.<br />
 
+**Please check the summarized output from Mayoclinic.pdf :**<br />
+
+[![Mayo-Clinic-Screenshot-2024-01-21-123904.png](https://i.postimg.cc/kMy1f93s/Mayo-Clinic-Screenshot-2024-01-21-123904.png)](https://postimg.cc/NL5kj302)
+
 # D)Summarizing Large Documents Using Map Reduce
 
 1.When we have huge data of 1 gb /2 gb and there is restriction of token so we have to use map reduce.<br /> 
